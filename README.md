@@ -19,8 +19,13 @@ reference paper by Eddy gives more background to interested readers.
 ## Result
 
 '''
+
 >AUGUCAGCGUU
+
 {{{.}}.{}.}
+
 >max count of pairs
+
 4
+
 '''
