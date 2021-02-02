@@ -20,11 +20,11 @@ reference paper by Eddy gives more background to interested readers.
 
 '''shell
 
->AUGUCAGCGUU
+>>>AUGUCAGCGUU
 
 {{{.}}.{}.}
 
->max count of pairs
+>>>max count of pairs
 
 4
 
