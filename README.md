@@ -26,11 +26,11 @@ minimization of free energy that may stabilize the formed structure.
 
 
 
->AUGUCAGCGUU
+>>AUGUCAGCGUU
 
 >{{{.}}.{}.}
 
->max count of pairs
+>>max count of pairs
 
 >4
 
