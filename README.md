@@ -15,6 +15,10 @@ molecule may form. The maximization of such base pairs corresponds to the
 minimization of free energy that may stabilize the formed structure. The
 reference paper by Eddy gives more background to interested readers.
 
+## How to run
+
+> python3 pair.py dna.txt
+
 
 ## Result
 
