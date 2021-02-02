@@ -18,7 +18,7 @@ reference paper by Eddy gives more background to interested readers.
 
 ## Result
 
-'''shell
+
 
 >AUGUCAGCGUU
 
@@ -28,4 +28,4 @@ reference paper by Eddy gives more background to interested readers.
 
 >4
 
-'''
+
